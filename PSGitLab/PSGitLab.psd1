@@ -101,6 +101,7 @@ FunctionsToExport = @(
     'New-GitLabMergeRequest',
     'Get-GitLabMergeRequest',
     'Set-GitLabMergeRequest',
+    'Accept-GitLabMergeRequest',
     'Remove-GitLabMergeRequest',
     'Close-GitLabMergeRequest',
     'New-GitLabMilestone',
